@@ -1,0 +1,14 @@
+D:\TestStudying\Task1\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+D:\TestStudying\Task1\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\TestStudying\Task1\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+D:\TestStudying\Task1\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+D:\TestStudying\Task1\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\TestStudying\Task1\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\TestStudying\Task1\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+D:\TestStudying\Task1\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestStudying\Task1\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\TestStudying\Task1\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\TestStudying\Task1\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\TestStudying\Task1\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\TestStudying\Task1\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+D:\TestStudying\Task1\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
