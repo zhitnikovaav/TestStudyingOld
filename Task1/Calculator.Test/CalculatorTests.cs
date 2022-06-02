@@ -9,6 +9,27 @@ namespace Calculator.Test
         [TestFixture]
         public class CalculatorTests
         {
+
+            [Test]
+            public void Sum_MaxValue()
+            {
+                Assert.Multiple(() =>
+                {
+                    Assert.Throws<ArgumentOutOfRangeException>(() => Calculator.Sum(int.MaxValue, 1));
+                    Assert.Throws<ArgumentOutOfRangeException>(() => Calculator.Sum(4, int.MaxValue));
+                }
+                );
+
+            }
+
+
+            [Test]
+            public void Minus_MinValue()
+            {
+                Assert.Throws<ArgumentOutOfRangeException>(() => Calculator.Minus(int.MinValue, 4));
+            }
+
+
             [Test]
             public void Sum_correct()
             {
@@ -21,6 +42,8 @@ namespace Calculator.Test
                 //assert
                 Assert.AreEqual(expected, actual);
             }
+
+
 
             [Test]
             public void Minus_correct()
@@ -41,16 +64,22 @@ namespace Calculator.Test
 
             }
 
+
             [Test]
-            public void Devision_correct()
+            public void Division_correct()
             {
                 //arrange
                 int a = 35;
                 int b = 10;
                 //act
-                int actual = Calculator.Devision(a, b);
+                int actual = Calculator.Division(a, b);
                 //assert
                 Assert.AreNotEqual(5, actual);
+            }
+
+            public void Division_Zero()
+            {
+                Assert.Throws<DivideByZeroException>(() => Calculator.Division(int.MinValue, 4));
             }
 
             [Test]
@@ -64,6 +93,18 @@ namespace Calculator.Test
                 int actual = Calculator.Multiplication(a, b);
                 //assert
                 Assert.AreEqual(expected, actual);
+            }
+
+            [Test]
+            public void Multi_MaxMinValue()
+            {
+                Assert.Multiple(() =>
+                {
+                    Assert.Throws<ArgumentOutOfRangeException>(() => Calculator.Sum(int.MaxValue, 2));
+                    Assert.Throws<ArgumentOutOfRangeException>(() => Calculator.Sum(4, int.MaxValue));
+                }
+                );
+
             }
         }
     }
