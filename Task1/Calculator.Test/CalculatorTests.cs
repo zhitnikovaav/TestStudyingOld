@@ -30,17 +30,13 @@ namespace Calculator.Test
             }
 
 
-            [Test]
-            public void Sum_correct()
+            [TestCase(45, 14, 59)]
+            [TestCase(6875, 9895, 16770)]
+            [TestCase(3462, -24, 3438)]
+            [TestCase(-251, -24, -275)]
+            public void Sum_correct(int a, int b, int c)
             {
-                //arrange
-                int a = 10;
-                int b = 25;
-                int expected = 35;
-                //act
-                int actual = Calculator.Sum(a, b);
-                //assert
-                Assert.AreEqual(expected, actual);
+                Assert.AreEqual(c, a + b);
             }
 
 
@@ -65,34 +61,26 @@ namespace Calculator.Test
             }
 
 
-            [Test]
-            public void Division_correct()
+            [TestCase(17, 2, 8)]
+            public void Division_correct(int a, int b, int c)
             {
-                //arrange
-                int a = 35;
-                int b = 10;
-                //act
                 int actual = Calculator.Division(a, b);
-                //assert
-                Assert.AreNotEqual(5, actual);
+                Assert.AreEqual(a/b, actual);
             }
+
+            [Test]
 
             public void Division_Zero()
             {
-                Assert.Throws<DivideByZeroException>(() => Calculator.Division(int.MinValue, 4));
+                Assert.Throws<DivideByZeroException>(() => Calculator.Division(int.MinValue, 0));
             }
 
             [Test]
-            public void Multiplication_correct()
+            public void Multiplication_correct([Range(1,4)] int a, [Random(-5,2, 3)] int b)
             {
-                //arrange
-                int a = 10;
-                int b = 25;
-                int expected = 250;
-                //act
                 int actual = Calculator.Multiplication(a, b);
                 //assert
-                Assert.AreEqual(expected, actual);
+                Assert.That(a * b, Is.EqualTo(actual));
             }
 
             [Test]
