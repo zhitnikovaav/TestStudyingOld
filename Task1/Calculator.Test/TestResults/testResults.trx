@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="397dbc43-5315-418f-8614-fef254c4e097" name="nasty@NASTYIALENOVO 2022-06-04 19:00:53" runUser="NASTYIALENOVO\nasty" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-06-04T19:00:53.4686267+03:00" queuing="2022-06-04T19:00:53.4686272+03:00" start="2022-06-04T19:00:49.1944660+03:00" finish="2022-06-04T19:00:53.6274910+03:00" />
+  <TestSettings name="default" id="6427d9a3-baf9-44a4-b445-a89e63d12be8">
+    <Deployment runDeploymentRoot="nasty_NASTYIALENOVO_2022-06-04_19_00_53" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="9bf24800-fb63-42f2-817a-311411f41aab" testId="152c299b-256b-6b3c-cc02-6caad93917d0" testName="Multiplication_correct(2,-2)" computerName="NASTYIALENOVO" duration="00:00:00.0001190" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9bf24800-fb63-42f2-817a-311411f41aab" />
+    <UnitTestResult executionId="6c524359-5026-4752-a68b-426ad84367de" testId="b587362f-9cc9-55e2-e55f-8281e790f5b3" testName="Multiplication_correct(1,-3)" computerName="NASTYIALENOVO" duration="00:00:00.0001680" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6c524359-5026-4752-a68b-426ad84367de" />
+    <UnitTestResult executionId="3eb93a45-3d12-4922-b173-ad229e874c10" testId="e3d67d16-ac4f-ff99-b2fd-af32b145fe29" testName="Multiplication_correct(4,-2)" computerName="NASTYIALENOVO" duration="00:00:00.0000570" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3eb93a45-3d12-4922-b173-ad229e874c10" />
+    <UnitTestResult executionId="feb04943-b6b1-47ab-863b-79b6d1e4695c" testId="b5f395ce-3acb-8629-97a5-b44107406660" testName="Sum_correct(-251,-24,-275)" computerName="NASTYIALENOVO" duration="00:00:00.0000699" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="feb04943-b6b1-47ab-863b-79b6d1e4695c" />
+    <UnitTestResult executionId="6d1f5020-0718-4802-8e62-5c67db03b08a" testId="152c299b-256b-6b3c-cc02-6caad93917d0" testName="Multiplication_correct(2,-2)" computerName="NASTYIALENOVO" duration="00:00:00.0000520" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6d1f5020-0718-4802-8e62-5c67db03b08a" />
+    <UnitTestResult executionId="64f151c1-6507-49cc-aca7-acd30e7f4976" testId="19a39e86-4cb1-d59e-0423-f1cdbabbac52" testName="Division_Zero" computerName="NASTYIALENOVO" duration="00:00:00.0119430" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="64f151c1-6507-49cc-aca7-acd30e7f4976" />
+    <UnitTestResult executionId="464ba1a7-4457-4f62-b07b-57997068cea8" testId="0c1d314f-a075-b476-de8e-f63b4149f89d" testName="Multiplication_correct(1,-2)" computerName="NASTYIALENOVO" duration="00:00:00.0001380" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="464ba1a7-4457-4f62-b07b-57997068cea8" />
+    <UnitTestResult executionId="2d48b195-d3b6-428b-ac58-d03e2df7424a" testId="5cd730a5-b915-204f-35e7-fba52bd376b0" testName="Minus_correct" computerName="NASTYIALENOVO" duration="00:00:00.0084040" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d48b195-d3b6-428b-ac58-d03e2df7424a" />
+    <UnitTestResult executionId="103229b0-57dc-499a-b6e1-9ae29d747273" testId="57e13764-b8aa-de2f-f81e-7462363187f7" testName="Division_correct(17,2,8)" computerName="NASTYIALENOVO" duration="00:00:00.0293240" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="103229b0-57dc-499a-b6e1-9ae29d747273" />
+    <UnitTestResult executionId="a5cf1b21-be28-434f-af68-333cdbe6bc33" testId="9cf6ccb9-620b-2523-6696-fe9bb4a016f7" testName="Multi_MaxMinValue" computerName="NASTYIALENOVO" duration="00:00:00.0021180" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a5cf1b21-be28-434f-af68-333cdbe6bc33" />
+    <UnitTestResult executionId="d9e2302e-b011-435e-b80d-06c4f8707dda" testId="a2ee2439-696b-bc0b-6012-8b88c59a8cc8" testName="Minus_MinValue" computerName="NASTYIALENOVO" duration="00:00:00.0012840" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d9e2302e-b011-435e-b80d-06c4f8707dda" />
+    <UnitTestResult executionId="c3445345-f9c9-428a-a36a-9bdab1ec3ea1" testId="59139263-18c7-e472-4c21-71da986af59b" testName="Multiplication_correct(3,-2)" computerName="NASTYIALENOVO" duration="00:00:00.0000410" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c3445345-f9c9-428a-a36a-9bdab1ec3ea1" />
+    <UnitTestResult executionId="b6ff9324-e873-4175-b850-3aecea6e26a3" testId="59139263-18c7-e472-4c21-71da986af59b" testName="Multiplication_correct(3,-2)" computerName="NASTYIALENOVO" duration="00:00:00.0000490" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b6ff9324-e873-4175-b850-3aecea6e26a3" />
+    <UnitTestResult executionId="0e677280-c3ab-42b1-ba8d-bc2cc8e45e4a" testId="c68eefe9-1e50-25cb-ffa8-167e844706c3" testName="Sum_correct(6875,9895,16770)" computerName="NASTYIALENOVO" duration="00:00:00.0001110" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e677280-c3ab-42b1-ba8d-bc2cc8e45e4a" />
+    <UnitTestResult executionId="ac200826-7387-453f-8c55-bb31b03cfe1c" testId="e3d67d16-ac4f-ff99-b2fd-af32b145fe29" testName="Multiplication_correct(4,-2)" computerName="NASTYIALENOVO" duration="00:00:00.0001220" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac200826-7387-453f-8c55-bb31b03cfe1c" />
+    <UnitTestResult executionId="dd8c7cf9-d001-4499-9af5-370795eb2274" testId="5c024e60-f856-3820-61dc-0c23cc6ca6c7" testName="Multiplication_correct(3,-3)" computerName="NASTYIALENOVO" duration="00:00:00.0000460" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd8c7cf9-d001-4499-9af5-370795eb2274" />
+    <UnitTestResult executionId="195c9eed-6a66-40c9-9184-f0749811f0db" testId="e8d53f8a-9a1d-e66d-7fc5-843a60210f4d" testName="Sum_MaxValue" computerName="NASTYIALENOVO" duration="00:00:00.0014820" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="195c9eed-6a66-40c9-9184-f0749811f0db" />
+    <UnitTestResult executionId="4e38c0e6-dd8e-4d12-96c2-1c11d7a2087d" testId="3177db39-80f1-84ad-63a4-454c9cafed7d" testName="Sum_correct(3462,-24,3438)" computerName="NASTYIALENOVO" duration="00:00:00.0000740" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4e38c0e6-dd8e-4d12-96c2-1c11d7a2087d" />
+    <UnitTestResult executionId="43f63288-b28f-42bf-afb5-d8ad88bd7865" testId="9ebf451b-8f95-abc8-0c47-8ea09fe2aba4" testName="Sum_correct(45,14,59)" computerName="NASTYIALENOVO" duration="00:00:00.0003200" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="43f63288-b28f-42bf-afb5-d8ad88bd7865" />
+    <UnitTestResult executionId="84b169f7-7ab6-4941-9e96-f85ab7cf12d8" testId="c5b9343c-15e3-3b08-e2d8-92889c92b7a4" testName="Multiplication_correct(2,-3)" computerName="NASTYIALENOVO" duration="00:00:00.0001670" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="84b169f7-7ab6-4941-9e96-f85ab7cf12d8" />
+    <UnitTestResult executionId="d1af26bc-9ff5-4e70-898b-d0836df0942d" testId="0c1d314f-a075-b476-de8e-f63b4149f89d" testName="Multiplication_correct(1,-2)" computerName="NASTYIALENOVO" duration="00:00:00.0020310" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d1af26bc-9ff5-4e70-898b-d0836df0942d" />
+    <UnitTestResult executionId="688d67aa-3bfe-46d4-80e2-feebdfb7dc57" testId="d59c97e7-f33d-95d9-c46f-556d3f4e9da1" testName="Multiplication_correct(4,-3)" computerName="NASTYIALENOVO" duration="00:00:00.0000670" startTime="2022-06-04T19:00:53.0000000+03:00" endTime="2022-06-04T19:00:53.0000000+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="688d67aa-3bfe-46d4-80e2-feebdfb7dc57" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Sum_correct(6875,9895,16770)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="c68eefe9-1e50-25cb-ffa8-167e844706c3">
+      <Execution id="0e677280-c3ab-42b1-ba8d-bc2cc8e45e4a" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Sum_correct(6875,9895,16770)" />
+    </UnitTest>
+    <UnitTest name="Sum_correct(45,14,59)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="9ebf451b-8f95-abc8-0c47-8ea09fe2aba4">
+      <Execution id="43f63288-b28f-42bf-afb5-d8ad88bd7865" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Sum_correct(45,14,59)" />
+    </UnitTest>
+    <UnitTest name="Multi_MaxMinValue" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="9cf6ccb9-620b-2523-6696-fe9bb4a016f7">
+      <Execution id="a5cf1b21-be28-434f-af68-333cdbe6bc33" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Multi_MaxMinValue" />
+    </UnitTest>
+    <UnitTest name="Multiplication_correct(4,-3)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="d59c97e7-f33d-95d9-c46f-556d3f4e9da1">
+      <Execution id="688d67aa-3bfe-46d4-80e2-feebdfb7dc57" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Multiplication_correct(4,-3)" />
+    </UnitTest>
+    <UnitTest name="Multiplication_correct(3,-2)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="59139263-18c7-e472-4c21-71da986af59b">
+      <Execution id="c3445345-f9c9-428a-a36a-9bdab1ec3ea1" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Multiplication_correct(3,-2)" />
+    </UnitTest>
+    <UnitTest name="Multiplication_correct(3,-3)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="5c024e60-f856-3820-61dc-0c23cc6ca6c7">
+      <Execution id="dd8c7cf9-d001-4499-9af5-370795eb2274" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Multiplication_correct(3,-3)" />
+    </UnitTest>
+    <UnitTest name="Multiplication_correct(1,-2)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="0c1d314f-a075-b476-de8e-f63b4149f89d">
+      <Execution id="d1af26bc-9ff5-4e70-898b-d0836df0942d" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Multiplication_correct(1,-2)" />
+    </UnitTest>
+    <UnitTest name="Multiplication_correct(4,-2)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="e3d67d16-ac4f-ff99-b2fd-af32b145fe29">
+      <Execution id="ac200826-7387-453f-8c55-bb31b03cfe1c" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Multiplication_correct(4,-2)" />
+    </UnitTest>
+    <UnitTest name="Multiplication_correct(2,-2)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="152c299b-256b-6b3c-cc02-6caad93917d0">
+      <Execution id="9bf24800-fb63-42f2-817a-311411f41aab" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Multiplication_correct(2,-2)" />
+    </UnitTest>
+    <UnitTest name="Division_Zero" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="19a39e86-4cb1-d59e-0423-f1cdbabbac52">
+      <Execution id="64f151c1-6507-49cc-aca7-acd30e7f4976" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Division_Zero" />
+    </UnitTest>
+    <UnitTest name="Division_correct(17,2,8)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="57e13764-b8aa-de2f-f81e-7462363187f7">
+      <Execution id="103229b0-57dc-499a-b6e1-9ae29d747273" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Division_correct(17,2,8)" />
+    </UnitTest>
+    <UnitTest name="Sum_correct(-251,-24,-275)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="b5f395ce-3acb-8629-97a5-b44107406660">
+      <Execution id="feb04943-b6b1-47ab-863b-79b6d1e4695c" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Sum_correct(-251,-24,-275)" />
+    </UnitTest>
+    <UnitTest name="Multiplication_correct(2,-3)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="c5b9343c-15e3-3b08-e2d8-92889c92b7a4">
+      <Execution id="84b169f7-7ab6-4941-9e96-f85ab7cf12d8" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Multiplication_correct(2,-3)" />
+    </UnitTest>
+    <UnitTest name="Sum_MaxValue" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="e8d53f8a-9a1d-e66d-7fc5-843a60210f4d">
+      <Execution id="195c9eed-6a66-40c9-9184-f0749811f0db" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Sum_MaxValue" />
+    </UnitTest>
+    <UnitTest name="Sum_correct(3462,-24,3438)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="3177db39-80f1-84ad-63a4-454c9cafed7d">
+      <Execution id="4e38c0e6-dd8e-4d12-96c2-1c11d7a2087d" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Sum_correct(3462,-24,3438)" />
+    </UnitTest>
+    <UnitTest name="Minus_MinValue" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="a2ee2439-696b-bc0b-6012-8b88c59a8cc8">
+      <Execution id="d9e2302e-b011-435e-b80d-06c4f8707dda" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Minus_MinValue" />
+    </UnitTest>
+    <UnitTest name="Minus_correct" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="5cd730a5-b915-204f-35e7-fba52bd376b0">
+      <Execution id="2d48b195-d3b6-428b-ac58-d03e2df7424a" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Minus_correct" />
+    </UnitTest>
+    <UnitTest name="Multiplication_correct(1,-3)" storage="d:\teststudying\task1\calculator.test\bin\debug\netcoreapp3.1\calculator.test.dll" id="b587362f-9cc9-55e2-e55f-8281e790f5b3">
+      <Execution id="6c524359-5026-4752-a68b-426ad84367de" />
+      <TestMethod codeBase="D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Calculator.Test.Tests+CalculatorTests" name="Multiplication_correct(1,-3)" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="152c299b-256b-6b3c-cc02-6caad93917d0" executionId="9bf24800-fb63-42f2-817a-311411f41aab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b587362f-9cc9-55e2-e55f-8281e790f5b3" executionId="6c524359-5026-4752-a68b-426ad84367de" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e3d67d16-ac4f-ff99-b2fd-af32b145fe29" executionId="3eb93a45-3d12-4922-b173-ad229e874c10" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5f395ce-3acb-8629-97a5-b44107406660" executionId="feb04943-b6b1-47ab-863b-79b6d1e4695c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="152c299b-256b-6b3c-cc02-6caad93917d0" executionId="6d1f5020-0718-4802-8e62-5c67db03b08a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="19a39e86-4cb1-d59e-0423-f1cdbabbac52" executionId="64f151c1-6507-49cc-aca7-acd30e7f4976" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0c1d314f-a075-b476-de8e-f63b4149f89d" executionId="464ba1a7-4457-4f62-b07b-57997068cea8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5cd730a5-b915-204f-35e7-fba52bd376b0" executionId="2d48b195-d3b6-428b-ac58-d03e2df7424a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57e13764-b8aa-de2f-f81e-7462363187f7" executionId="103229b0-57dc-499a-b6e1-9ae29d747273" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9cf6ccb9-620b-2523-6696-fe9bb4a016f7" executionId="a5cf1b21-be28-434f-af68-333cdbe6bc33" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a2ee2439-696b-bc0b-6012-8b88c59a8cc8" executionId="d9e2302e-b011-435e-b80d-06c4f8707dda" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59139263-18c7-e472-4c21-71da986af59b" executionId="c3445345-f9c9-428a-a36a-9bdab1ec3ea1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="59139263-18c7-e472-4c21-71da986af59b" executionId="b6ff9324-e873-4175-b850-3aecea6e26a3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c68eefe9-1e50-25cb-ffa8-167e844706c3" executionId="0e677280-c3ab-42b1-ba8d-bc2cc8e45e4a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e3d67d16-ac4f-ff99-b2fd-af32b145fe29" executionId="ac200826-7387-453f-8c55-bb31b03cfe1c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5c024e60-f856-3820-61dc-0c23cc6ca6c7" executionId="dd8c7cf9-d001-4499-9af5-370795eb2274" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e8d53f8a-9a1d-e66d-7fc5-843a60210f4d" executionId="195c9eed-6a66-40c9-9184-f0749811f0db" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3177db39-80f1-84ad-63a4-454c9cafed7d" executionId="4e38c0e6-dd8e-4d12-96c2-1c11d7a2087d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9ebf451b-8f95-abc8-0c47-8ea09fe2aba4" executionId="43f63288-b28f-42bf-afb5-d8ad88bd7865" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c5b9343c-15e3-3b08-e2d8-92889c92b7a4" executionId="84b169f7-7ab6-4941-9e96-f85ab7cf12d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0c1d314f-a075-b476-de8e-f63b4149f89d" executionId="d1af26bc-9ff5-4e70-898b-d0836df0942d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d59c97e7-f33d-95d9-c46f-556d3f4e9da1" executionId="688d67aa-3bfe-46d4-80e2-feebdfb7dc57" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="22" executed="22" passed="22" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.16.1.0: Test execution started&#xD;
+Running all tests in D:\TestStudying\Task1\Calculator.Test\bin\Debug\netcoreapp3.1\Calculator.Test.dll&#xD;
+   NUnit3TestExecutor converted 22 of 22 NUnit test cases&#xD;
+NUnit Adapter 3.16.1.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
